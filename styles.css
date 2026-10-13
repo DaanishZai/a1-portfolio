@@ -6,6 +6,7 @@
     justify-content: flex-end;
     background-color: #D46A6A;
     align-items: center;
+    border-bottom: 4px solid black;
 }
 
 #navbar a {
@@ -24,11 +25,26 @@ body {
     background-color: #FFAAAA;
     margin: 0 0;
     color: #550000;
-    justify-content: center;
+    font-family: Open-Sans, sans-serif;
 }
 
 a {
     color: #550000;
 }
 
+#content {
+    display: flex;
+    justify-content: center;
+}
+
+#content div * {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+}
+
+.generate {
+    margin-top: 20px;
+}
 
