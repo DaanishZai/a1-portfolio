@@ -46,5 +46,14 @@ a {
 
 .generate {
     margin-top: 20px;
+    font-weight: 700;
+    text-decoration: none;
 }
 
+.inline {
+    display: inline !important;
+}
+
+a:hover {
+    color:white;
+}
