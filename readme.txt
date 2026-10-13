@@ -40,11 +40,11 @@ No
 
 4. How long, in hours, did it take you to complete this assignment?
 
-1 hour
+2 hours
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 
-Looked up some refreshers on tags and properties for flexbox and font linking. Took results from the Google search AI.
+Looked up some refreshers on tags and properties for flexbox and font linking. Took results from the Google search AI. I also looked up the @media line syntax for my css. Only website used apart from Google Search was w3schools.com
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 

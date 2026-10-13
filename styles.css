@@ -20,6 +20,18 @@
     color: white;
 }
 
+@media screen and (max-width: 768px) {
+    #navbar {
+        justify-content: center;
+        height: 50px;
+    }
+
+    #navbar a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
 
 body {
     background-color: #FFAAAA;
@@ -57,3 +69,4 @@ a {
 a:hover {
     color:white;
 }
+
